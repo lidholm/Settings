@@ -34,5 +34,29 @@
     "brackets-git.debugMode": false,
     "noDistractions": false,
     "useTabChar": false,
-    "spaceUnits": 2
+    "spaceUnits": 4,
+    "denniskehrig.ShowWhitespace.checked": true,
+    "denniskehrig.ShowWhitespace.colors": {
+        "light": {
+            "empty": "#ccc",
+            "leading": "#ccc",
+            "trailing": "#ff0000",
+            "whitespace": "#ccc"
+        },
+        "dark": {
+            "empty": "#686963",
+            "leading": "#686963",
+            "trailing": "#ff0000",
+            "whitespace": "#686963"
+        }
+    },
+    "styleActiveLine": false,
+    "beautify.io.on_save": false,
+    "linting.collapsed": false,
+    "language": {
+        "javascript": {
+            "linting.prefer": "JSHint",
+            "linting.usePreferredOnly": true
+        }
+    }
 }
